@@ -1,0 +1,247 @@
+{
+  "metaData": {
+    "title": "Anna Cafe & Restaurant | Rooftop Dining in Jodhpur",
+    "description": "Indian food and rooftop seating with a view over Jodhpur. Anna Cafe & Restaurant, Umaid Chowk.",
+    "keywords": "Anna Cafe and Restaurant, rooftop restaurant Jodhpur, Indian restaurant Jodhpur, cafe in Jodhpur"
+  },
+  "header": {
+    "brandNameInitials": "AC",
+    "brandName": "Anna Cafe",
+    "navLinks": [
+      {
+        "text": "Home",
+        "link": "#home"
+      },
+      {
+        "text": "About",
+        "link": "#about"
+      },
+      {
+        "text": "Menu",
+        "link": "#menu"
+      },
+      {
+        "text": "Gallery",
+        "link": "#gallery"
+      },
+      {
+        "text": "Contact",
+        "link": "#contact"
+      }
+    ],
+    "cta": {
+      "text": "Reserve a table",
+      "link": "https://wa.me/9414391265?text=Hello!%20I%20would%20love%20to%20reserve%20a%20table%20at%20Anna%20Cafe%20and%20Restaurant."
+    }
+  },
+  "footer": {
+    "brandNameInitials": "AC",
+    "brandName": "Anna Cafe & Restaurant",
+    "links": [
+      {
+        "text": "Follow along on Instagram",
+        "link": "https://www.instagram.com/anna.cafe_restaurant_/"
+      },
+      {
+        "text": "Designed with care by Nakesh Aswani",
+        "link": "https://nakeshaswani.vercel.app"
+      }
+    ]
+  },
+  "heroSection": {
+    "title": "Anna Cafe & Restaurant",
+    "subtitle": "Rooftop dining in Jodhpur",
+    "description": "Indian food, cosy corners among the plants, and the city spread out around you.",
+    "cta": [
+      {
+        "text": "Reserve a table",
+        "link": "https://wa.me/9414391265?text=Hello!%20I%20would%20love%20to%20reserve%20a%20table%20at%20Anna%20Cafe%20and%20Restaurant."
+      },
+      {
+        "text": "Explore the menu",
+        "link": "#menu"
+      }
+    ],
+    "backgroundImage": "/images/hero-banner.avif"
+  },
+  "aboutSection": {
+    "title": "Good food, with the city for a view.",
+    "subtitle": "A little about us",
+    "content": [
+      "Anna Cafe & Restaurant is a rooftop restaurant in Jodhpur serving Indian food, from tawa roti to dal fry and kadhai paneer.",
+      "Find a cosy corner among the plants and flowers, order something warm, and watch Jodhpur settle into the evening around you."
+    ],
+    "cta": {
+      "text": "Discover Our Story",
+      "link": "#contact"
+    }
+  },
+  "menuSection": {
+    "title": "A few favourites, for now.",
+    "subtitle": "From our kitchen",
+    "description": "Guests keep coming back for these. Ask us for the full menu.",
+    "menuItems": [
+      {
+        "id": 1,
+        "image": "/images/menu/ember-roasted-carrots.avif",
+        "name": "Dal Fry",
+        "description": "Comforting lentils, tempered and served hot",
+        "price": "",
+        "tag": "Guest favourite"
+      },
+      {
+        "id": 2,
+        "image": "/images/menu/wild-mushroom-toast.avif",
+        "name": "Kadhai Paneer",
+        "description": "Paneer in a rich, spiced kadhai gravy",
+        "price": "",
+        "tag": "Guest favourite"
+      },
+      {
+        "id": 3,
+        "image": "/images/menu/citrus-glazed-salmon.avif",
+        "name": "Tawa Roti",
+        "description": "Fresh Indian flatbread from the tawa",
+        "price": "",
+        "tag": "Guest favourite"
+      }
+    ],
+    "cta": {
+      "text": "Ask for the full menu",
+      "link": "#contact"
+    }
+  },
+  "gallerySection": {
+    "title": "Come as you are.",
+    "subtitle": "The atmosphere",
+    "description": "Rooftop views, warm plates and cosy corners.",
+    "galleryImages": [
+      {
+        "id": 1,
+        "image": "/images/gallery/gallery-1.webp",
+        "name": "Gallery Image 1",
+        "rowSpan": 2,
+        "colSpan": 1
+      },
+      {
+        "id": 2,
+        "image": "/images/gallery/gallery-2.jpeg",
+        "name": "Gallery Image 2",
+        "rowSpan": 3,
+        "colSpan": 1
+      },
+      {
+        "id": 3,
+        "image": "/images/gallery/gallery-3.webp",
+        "name": "Gallery Image 3",
+        "rowSpan": 2,
+        "colSpan": 1
+      },
+      {
+        "id": 4,
+        "image": "/images/gallery/gallery-4.jpg",
+        "name": "Gallery Image 4",
+        "rowSpan": 1,
+        "colSpan": 1
+      },
+      {
+        "id": 5,
+        "image": "/images/gallery/gallery-5.jpg",
+        "name": "Gallery Image 5",
+        "rowSpan": 2,
+        "colSpan": 1
+      },
+      {
+        "id": 6,
+        "image": "/images/gallery/gallery-6.avif",
+        "name": "Gallery Image 6",
+        "rowSpan": 1,
+        "colSpan": 1
+      },
+      {
+        "id": 7,
+        "image": "/images/gallery/gallery-7.webp",
+        "name": "Gallery Image 7",
+        "rowSpan": 2,
+        "colSpan": 1
+      },
+      {
+        "id": 8,
+        "image": "/images/gallery/gallery-8.jpg",
+        "name": "Gallery Image 8",
+        "rowSpan": 1,
+        "colSpan": 1
+      }
+    ]
+  },
+  "testimonialSection": {
+    "title": "The nicest thing about a full table? Sharing it.",
+    "subtitle": "Kind words",
+    "description": "What our guests say about us.",
+    "testimonials": [
+      {
+        "id": 1,
+        "rating": 5,
+        "content": "The food was absolutely delicious! The flavors were rich and authentic, and the presentation was beautiful. I highly recommend trying their signature dishes.",
+        "author": "Priya Sharma"
+      },
+      {
+        "id": 2,
+        "rating": 5,
+        "content": "I had a wonderful dining experience at Anna Cafe & Restaurant. The staff was friendly and attentive, and the ambiance was cozy and inviting. I will definitely be coming back!",
+        "author": "Rohit Verma"
+      },
+      {
+        "id": 3,
+        "rating": 5,
+        "content": "The rooftop seating with a view of Jodhpur is simply breathtaking. The food exceeded my expectations, and the service was top-notch. A must-visit for food lovers!",
+        "author": "Anjali Mehta"
+      }
+    ]
+  },
+  "locationSection": {
+    "title": "Come up to the rooftop.",
+    "subtitle": "Plan your visit",
+    "location": {
+      "address": "Umaid Chowk, Golnadi Bajarang Colony, near Hotel Bawarri Haveli, Jodhpur, Rajasthan 342001",
+      "link": "https://maps.app.goo.gl/WcKMFBKKSjfbRbdf9"
+    },
+    "phone": {
+      "number": "+91 94143 91265",
+      "link": "tel:+9414391265"
+    },
+    "hours": [
+      {
+        "day": "Monday",
+        "time": "8:00 AM – 11:00 PM"
+      },
+      {
+        "day": "Tuesday – Friday",
+        "time": "8:00 AM – 11:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "time": "8:00 AM – 10:00 PM"
+      },
+      {
+        "day": "Sunday",
+        "time": "8:00 AM – 11:30 PM"
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Come find your new favourite table.",
+    "subtitle": "Say hello",
+    "description": "For tables, celebrations, or just a question, send us a message on WhatsApp and we will get back to you soon.",
+    "cta": [
+      {
+        "text": "Message on WhatsApp",
+        "link": "https://wa.me/9414391265"
+      },
+      {
+        "text": "+91 94143 91265",
+        "link": "tel:+9414391265"
+      }
+    ]
+  }
+}
